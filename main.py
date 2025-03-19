@@ -4,6 +4,8 @@ import os
 import random
 import threading
 
+os.system("pip install sherlock")
+
 # Liste de pseudos suspects de base
 base_usernames = [
     "boylover", "girllover", "kidfan", "younglover",
